@@ -1,5 +1,8 @@
 # 👋 Hi, I'm zchuwie!
 
+![zchuwie's GitHub stats](https://github-readme-stats.vercel.app/api?username=zchuwie)
+
+
 I’m a third-year **Computer Science student** passionate about building full-stack systems, IoT projects, and digital solutions that solve real-world problems. I love working on embedded systems, backend development, UI design, and software engineering that blends hardware and software together.
 
 ---
