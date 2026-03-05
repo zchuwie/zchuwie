@@ -1,11 +1,7 @@
 # 👋 Hi, I'm zchuwie!
 
-![zchuwie's GitHub stats](https://github-readme-stats.vercel.app/api?username=zchuwie)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zchuwie)
 
-
-
-I’m a third-year **Computer Science student** passionate about building full-stack systems, IoT projects, and digital solutions that solve real-world problems. I love working on embedded systems, backend development, UI design, and software engineering that blends hardware and software together.
+I’m a junior of **Computer Science student** passionate about building full-stack systems, IoT projects, and digital solutions that solve real-world problems. I love working on embedded systems, backend development, UI design, and software engineering that blends hardware and software together.
 
 ---
 
@@ -58,7 +54,7 @@ I’m a third-year **Computer Science student** passionate about building full-s
 ---
 
 ## 📚 What I’m Working On
-- Smart IoT systems using mobile + WiFi provisioning  
+- An IoT based automation for indoor urban farming that aims to lessen human interaction when growing plants. 
 - Pharmacy & inventory software using SQL + Dapper  
 - Desktop applications with dynamic UI and data binding  
 - Sensor-driven automation systems
@@ -77,4 +73,5 @@ I’m a third-year **Computer Science student** passionate about building full-s
 
 ## 📫 Contact
 If you'd like to collaborate or talk tech:
-
+[LinkedIn](https://linkedin.com/in/denzchristian) | denz.sabalboro@gmail.com
+[Personal Website](https://zchuwie.netlify.app) 
