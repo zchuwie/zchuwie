@@ -25,19 +25,28 @@ I’m a third-year **Computer Science student** passionate about building full-s
 - VB.NET
 - TypeScript
 - JavaScript
-- SQL
+- SQL,
+- Java,
+- PHP
 - C/C++ (Microcontrollers)
+
 
 ### 🧰 Frameworks, Libraries & Platforms
 - .NET / WinForms
 - React / React Native
 - Node.js
-- Dapper ORM
+- Dapper ORM,
+- Prisma
 - Arduino
 - ESP Modules (IoT)
+- Laravel
+- NextJS
+- NestJS
+- p5play.js
 
 ### 🛢 Databases
-- Microsoft SQL Server
+- PostgreSQL
+- MongoBD
 - MySQL
 
 ### 🔌 Hardware & Embedded
@@ -58,7 +67,8 @@ I’m a third-year **Computer Science student** passionate about building full-s
 
 ## ✨ Interests
 - Embedded development  
-- Electronics & breadboard prototyping  
+- Web development
+- Artificial Intelligence 
 - Human-Computer Interaction & UI design  
 - Smart automation projects  
 - Music tech & audio processing
