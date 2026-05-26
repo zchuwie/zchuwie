@@ -1,50 +1,101 @@
-# 👋 Hi, I'm zchuwie!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Denz%20Christian%20G.%20Sabalboro&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=zchuwie)
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=zchuwie">
+    <img src="https://komarev.com/ghpvc/?username=zchuwie&label=Profile%20views&color=00FFFF&style=flat-square" alt="zchuwie's profile views" />
+  </a>
+</p>
+
+## 📌 About Me
+- A computer science student with a passion of creating real-world solutions applicable for helping other people to make life feasible and easier with the use of technology. Currently learning machine learning and data analytics to gain tract on how computer works with machines.
 
 
-I’m a **Computer Science junior student** passionate about building full-stack systems, IoT projects, and digital solutions that solve real-world problems. I love working on embedded systems, backend development, UI design, and software engineering that blends hardware and software together.
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/zchuwie">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zchuwie&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="zchuwie's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=zchuwie&theme=radical&hide_border=true&cache_seconds=86400" alt="zchuwie's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=zchuwie&theme=radical&radius=10" alt="zchuwie's Activity Graph" />
+</p>
 
----
 
-## 🚀 About Me
+## 🛠️ Languages & Tools
 
-- 🎓 Currently studying **Computer Science**
-- 🔧 Enjoy working on **IoT**, **database systems**, and **desktop & mobile applications**
-- 💡 Passionate about electronics, smart devices, and automation
-- 🎯 Always exploring new tech and improving my problem-solving skills
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
 
----
+</p>
 
-## 🧠 Technologies & Tools I Use
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
 
-### 💻 Programming Languages
-![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![VB.NET](https://img.shields.io/badge/VB.NET-533174?style=for-the-badge&logo=visual-studio&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-0077be?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white) ![C/C++](https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+</p>
 
-### 🧰 Frameworks, Libraries & Platforms
-![NET](https://img.shields.io/badge/.NET-5C3D92?style=for-the-badge&logo=dotnet) ![WinForms](https://img.shields.io/badge/WinForms-0078D4?style=for-the-badge&logo=windows) ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react) ![React Native](https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react) ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Dapper ORM](https://img.shields.io/badge/Dapper-7719AA?style=for-the-badge&logo=dapper) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma) ![Arduino](https://img.shields.io/badge/arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![ESP Modules](https://img.shields.io/badge/ESP-modules-FF6600?style=for-the-badge)  ![Laravel](https://img.shields.io/badge/laravel-FF4500?style=for-the-badge&logo=laravel&logoColor=white) ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-E32475?style=for-the-badge&logo=nestjs&logoColor=white) ![p5play.js](https://img.shields.io/badge/p5play.js-F063A4?style=for-the-badge)
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" />
 
-### 🛢 Databases
-![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</p>
 
-### 🔌 Hardware & Embedded
-- ![Arduino Boards](https://img.shields.io/badge/Arduino-Boards-00979D?style=for-the-badge&logo=arduino)
-- Sensors (Moisture, Humidity, Temperature)
-- Servo motors, LEDs, buzzers
-- Nux MG-300 (firmware experimentation)
----
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
 
-## ✨ Interests
-- Embedded development  
-- Web development
-- Artificial Intelligence 
-- Human-Computer Interaction & UI design  
-- Smart automation projects  
-- Music tech & audio processing
+</p>
 
----
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
 
-## 📫 Contact
-If you'd like to collaborate or talk tech:
-[LinkedIn](https://linkedin.com/in/denzchristian) | denz.sabalboro@gmail.com
-[Personal Website](https://zchuwie.netlify.app) 
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/zchuwie">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zchuwie&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/denzchristian"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Denz Christian G. Sabalboro's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:denz.sabalboro@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Denz Christian G. Sabalboro's Email"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://denzchristian.netlify.app"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
