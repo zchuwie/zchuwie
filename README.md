@@ -95,7 +95,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/denzsabalboro"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Denz Christian G. Sabalboro's LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:denz.sabalboro@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Denz Christian G. Sabalboro's Email"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://denzchristian.netlify.app"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
+  <a href="https://denzsabalboro.vercel.app"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 </p>
 
 <picture>
